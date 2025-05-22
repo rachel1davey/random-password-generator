@@ -34,5 +34,5 @@ if (hasSymbols) {
 
 
 
-// random num math.floor(math.random * 6) + 1
+
 
